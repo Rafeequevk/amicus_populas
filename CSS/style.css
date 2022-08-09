@@ -1,0 +1,65 @@
+
+.logo{
+    width: 100px;
+    
+}
+
+.nav-link{
+    font-size: 1.5rem;
+    margin: auto 10px auto 10px;
+}
+.slide-img{
+    width: 100%;
+}
+.titles{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    color: white;
+    text-align: left;
+}
+.divider{
+    margin: 3% auto 3% auto;
+    border: 7px dotted #575555;
+    border-style: none none dotted; 
+    width: 20%;
+    
+}
+.neeth-img{
+  width: 100%;
+}
+.neeth-text{
+    font-size: 3rem;
+    margin: 3% auto 3% auto;
+    text-align: left;
+}
+.neeth{
+    padding: .5% 15%;
+}
+.container-fluid{
+    padding: .5% 15%;
+
+}
+.card{
+    text-align: center;
+    height: 498px;
+    
+}
+h3{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+body{
+    text-align: center;
+}
+.feature-title{
+    margin-bottom: 6%;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.ftr-h3{
+    margin: 3%;
+}
