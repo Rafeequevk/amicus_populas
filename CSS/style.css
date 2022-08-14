@@ -138,3 +138,15 @@ body{
 #Contact-form{
 background-color: #2c2c2c;
 }
+.abt-responsive{
+    display: none;
+}
+@media (max-width :992px) {
+    .about{
+        display: none;
+    }
+    .abt-responsive{
+        display: block;
+    }
+    
+}
